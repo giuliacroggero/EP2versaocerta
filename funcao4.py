@@ -10,4 +10,4 @@ def posiciona_frota(frota):
                 linha = posicao[0]
                 coluna = posicao[1]
                 tabuleiro[linha][coluna] = 1
-    return tabuleiro
+    return tabuleiro
